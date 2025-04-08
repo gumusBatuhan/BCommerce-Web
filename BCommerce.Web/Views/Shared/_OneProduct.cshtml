@@ -1,0 +1,100 @@
+﻿@model ProductDTO
+<article class="tm-product-card uk-first-column">
+    <div class="tm-product-card-media">
+        <div class="tm-ratio tm-ratio-4-3">
+            <a class="tm-media-box" href="product.html">
+                <div class="tm-product-card-labels">
+                    <span class="uk-label uk-label-warning">
+                        top
+                        selling
+                    </span><span class="uk-label uk-label-danger">trade-in</span>
+                </div>
+                <figure class="tm-media-box-wrap">
+                    <img src="@Model.Images.First().Path"
+                         alt="@Model.Name">
+                </figure>
+            </a>
+        </div>
+    </div>
+    <div class="tm-product-card-body">
+        <div class="tm-product-card-info">
+            <div class="uk-text-meta uk-margin-xsmall-bottom">Laptop</div>
+            <h3 class="tm-product-card-title">
+                <a class="uk-link-heading" href="product.html">
+                    @Model.Name
+                </a>
+            </h3>
+            @* <ul class="uk-list uk-text-small tm-product-card-properties">
+            <li><span class="uk-text-muted">Diagonal display: </span><span>15.4"</span></li>
+            <li><span class="uk-text-muted">CPU: </span><span>Intel®&nbsp;Core™ i7</span></li>
+            <li><span class="uk-text-muted">RAM: </span><span>16&nbsp;GB</span></li>
+            <li><span class="uk-text-muted">Video Card: </span><span>AMD Radeon Pro 555</span></li>
+            </ul>*@
+        </div>
+        <div class="tm-product-card-shop">
+            <div class="tm-product-card-prices">
+                <div class="tm-product-card-price">$ @Model.Price</div>
+            </div>
+            <div class="tm-product-card-add">
+                <div class="uk-text-meta tm-product-card-actions">
+
+
+                    @await Html.PartialAsync("_PartialFavoriteView",new FavoriteViewModel{
+                    IsFavorite=Model.IsFavorite,
+                    ProductId=Model.Id
+
+                    })
+
+
+                    @* @if (Model.IsFavorite)
+                    {
+                    <a onclick="AddFavorite(@Model.Id,false)" class="tm-product-card-action js-add-to js-add-to-favorites tm-action-button-active js-added-to"
+                    title="Remove to favorites">
+
+                    <svg width="15" height="15" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"> <path fill="red" stroke="#000" stroke-width="1.03" d="M10,4 C10,4 8.1,2 5.74,2 C3.38,2 1,3.55 1,6.73 C1,8.84 2.67,10.44 2.67,10.44 L10,18 L17.33,10.44 C17.33,10.44 19,8.84 19,6.73 C19,3.55 16.62,2 14.26,2 C11.9,2 10,4 10,4 L10,4 Z"></path></svg>
+
+                    </a>
+                    }
+                    else
+                    {
+                    <a onclick="AddFavorite(@Model.Id,true)" class="tm-product-card-action js-add-to js-add-to-favorites tm-action-button-active js-added-to"
+                    title="Add to favorites">
+                    <span uk-icon="icon: heart; ratio: .75;" class="uk-icon">
+
+                    </span>
+                    <span class="tm-product-card-action-text">
+                    Add to
+                    favorites
+                    </span>
+                    </a>
+                    }
+                    *@
+
+
+
+
+                    <a class="tm-product-card-action js-add-to js-add-to-compare tm-action-button-active js-added-to"
+                       title="Add to compare">
+                        <span uk-icon="icon: copy; ratio: .75;"
+                              class="uk-icon">
+
+                        </span><span class="tm-product-card-action-text">
+                            Add to
+                            compare
+                        </span>
+                    </a>
+                </div>
+
+
+                <button onclick="addToCart(@Model.Id)" class="uk-button uk-button-primary tm-product-card-add-button tm-shine js-add-to-cart">
+                    <span class="tm-product-card-add-button-icon uk-icon" uk-icon="cart">
+
+                    </span>
+                    <span class="tm-product-card-add-button-text">
+                        Sepete Ekle
+                    </span>
+                </button>
+            </div>
+        </div>
+    </div>
+</article>

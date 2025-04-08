@@ -1,0 +1,16 @@
+﻿@model List<BrandDTO>
+
+@foreach (var item in Model)
+{
+    <li>
+        <div class="tm-ratio tm-ratio-4-3">
+            <a class="uk-link-muted uk-text-center uk-display-block uk-padding-small uk-box-shadow-hover-large tm-media-box"
+               href="#" title="@item.Name">
+                <figure class="tm-media-box-wrap">
+                    <img src="@item.Image" alt="@item.Name">
+                </figure>
+            </a>
+        </div>
+    </li>
+}
+

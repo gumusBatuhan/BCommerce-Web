@@ -1,0 +1,25 @@
+﻿@model FavoriteViewModel
+
+
+@if (Model.IsFavorite)
+{
+    <a  onclick="AddFavorite(this,@Model.ProductId,false)" class="tm-product-card-action js-add-to js-add-to-favorites tm-action-button-active js-added-to"
+       title="Remove to favorites">
+
+        <svg width="15" height="15" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"> <path fill="red" stroke="#000" stroke-width="1.03" d="M10,4 C10,4 8.1,2 5.74,2 C3.38,2 1,3.55 1,6.73 C1,8.84 2.67,10.44 2.67,10.44 L10,18 L17.33,10.44 C17.33,10.44 19,8.84 19,6.73 C19,3.55 16.62,2 14.26,2 C11.9,2 10,4 10,4 L10,4 Z"></path></svg>
+
+    </a>
+}
+else
+{
+    <a onclick="AddFavorite(this,@Model.ProductId,true)" class="tm-product-card-action js-add-to js-add-to-favorites tm-action-button-active js-added-to"
+       title="Add to favorites">
+        <span uk-icon="icon: heart; ratio: .75;" class="uk-icon">
+
+        </span>
+        <span class="tm-product-card-action-text">
+            Add to
+            favorites
+        </span>
+    </a>
+}

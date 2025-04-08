@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Apple MacBook Pro 15 Touch Bar MPTU2LL 256GB (Silver)",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod nisl nunc, a dictum magna laoreet eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.",
+    "Price": 1599.00,
+    "BrandId": 2,
+    "CategoryId": 1,
+    "Images": [
+      {
+        "Path": "/images/products/1/1-add-1-large.jpg"
+
+      },
+      {
+        "Path": "/images/products/1/1-add-2-large.jpg"
+      },
+      {
+
+        "Path": "/images/products/1/1-add-3-large.jpg"
+      }
+    ]
+  },
+  {
+    "Name": "Apple MacBook 12 MNYN2LL/A 512GB (Rose Gold),",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod nisl nunc, a dictum magna laoreet eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.",
+    "Price": 1549.00,
+    "BrandId": 2,
+    "CategoryId": 1,
+    "Images": [
+      {
+        "Path": "/images/products/2/2-medium.jpg"
+
+      }
+    ]
+  }
+
+
+
+]

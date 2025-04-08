@@ -1,0 +1,21 @@
+﻿@model FilterAreaModel
+
+<section class="uk-card-body uk-open js-accordion-section">
+    <h4 class="uk-accordion-title uk-margin-remove">Prices</h4>
+    <div class="uk-accordion-content" aria-hidden="false">
+        <div class="uk-grid-small uk-child-width-1-2 uk-text-small uk-grid" uk-grid="">
+            <div class="uk-first-column">
+                <div class="uk-inline">
+                    <span class="uk-form-icon uk-text-xsmall">from</span>
+                    <input class="uk-input" type="text" asp-for="MinPrice">
+                </div>
+            </div>
+            <div>
+                <div class="uk-inline">
+                    <span class="uk-form-icon uk-text-xsmall">to</span>
+                    <input class="uk-input" type="text" asp-for="MaxPrice">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

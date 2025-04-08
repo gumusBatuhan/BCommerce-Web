@@ -1,0 +1,28 @@
+﻿@model FilterAreaModel
+
+
+<section class="uk-card-body js-accordion-section uk-open">
+    <h4 class="uk-accordion-title uk-margin-remove">
+        Brands
+    </h4>
+    <div class="uk-accordion-content" aria-hidden="false">
+        <ul class="uk-list tm-scrollbox">
+
+            @foreach (var item in Model.Brands)
+            {
+                <li>
+                    <input class="uk-checkbox" name="SelectedBrands" type="checkbox" checked="@item.IsSelected" value="@item.Id">
+
+
+                    <label for="brand-1">
+                        <span>
+                            @item.Name
+                        </span>
+                    </label>
+                </li>
+            }
+
+
+        </ul>
+    </div>
+</section>

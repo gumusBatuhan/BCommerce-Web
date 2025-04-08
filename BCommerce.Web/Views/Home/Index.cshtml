@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+
+@if (User.Identity.IsAuthenticated)
+{
+    <span>Merhaba, @User.Identity.Name</span>
+
+
+    <ul>
+        @foreach (var item in User.Claims)
+        {
+
+            <li>@item.Type @item.Value</li>
+
+        }
+    </ul>
+
+}
+@await Component.InvokeAsync("TrendProduct")

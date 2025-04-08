@@ -1,0 +1,32 @@
+﻿@model List<MainCategoryDTO>
+
+@{
+    int counter = 0;
+}
+
+@foreach (var item in Model)
+{
+    <li class="@(counter++==0? "uk-first-column" :"")">
+        <div class="uk-margin-top uk-margin-bottom">
+            <a class="uk-link-reset"
+               href="category.html">
+                <img class="uk-display-block uk-margin-auto uk-margin-bottom" src="@item.Image" alt="@item.Name" width="80" height="80">
+                <div class="uk-text-bolder">@item.Name</div>
+            </a>
+            <ul class="uk-nav uk-nav-default">
+
+                @foreach (var subitem in item.Categories)
+                {
+                    <li><a href="subcategory.html">@subitem.Name</a></li>
+                }
+
+            </ul>
+        </div>
+    </li>
+
+
+}
+
+
+
+

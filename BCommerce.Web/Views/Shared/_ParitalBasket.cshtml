@@ -1,0 +1,94 @@
+﻿@model BasketDTO
+
+<header class="uk-card-header uk-flex uk-flex-middle">
+    <div b-uw9yh7yx80="" class="uk-grid-small uk-flex-1 uk-grid" uk-grid="">
+        <div b-uw9yh7yx80="" class="uk-width-expand">
+            <div b-uw9yh7yx80="" class="uk-h3">Cart</div>
+        </div><button b-uw9yh7yx80="" class="uk-offcanvas-close uk-close uk-icon" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+    </div>
+</header>
+<div b-uw9yh7yx80="" class="uk-card-body uk-overflow-auto">
+
+    @if (Model.Items != null && Model.Items.Count > 0)
+    {
+
+        <ul b-uw9yh7yx80="" class="uk-list uk-list-divider">
+
+            @foreach (var item in Model.Items)
+            {
+
+
+                <li b-uw9yh7yx80="" class="uk-visible-toggle">
+                    <arttcle b-uw9yh7yx80="">
+                        <div b-uw9yh7yx80="" class="uk-grid-small uk-grid" uk-grid="">
+                            <div b-uw9yh7yx80="" class="uk-width-1-4">
+                                <div b-uw9yh7yx80="" class="tm-ratio tm-ratio-4-3">
+                                    <a b-uw9yh7yx80="" class="tm-media-box" href="product.html">
+                                        <figure b-uw9yh7yx80="" class="tm-media-box-wrap">
+                                            <img b-uw9yh7yx80="" src="@item.Image" alt="@item.Name">
+                                        </figure>
+                                    </a>
+                                </div>
+                            </div>
+                            <div b-uw9yh7yx80="" class="uk-width-expand">
+                                <div b-uw9yh7yx80="" class="uk-text-meta uk-text-xsmall">Laptop</div><a b-uw9yh7yx80="" class="uk-link-heading uk-text-small" href="product.html">
+                                    @item.Name
+                                </a>
+                                <div b-uw9yh7yx80="" class="uk-margin-xsmall uk-grid-small uk-flex-middle uk-grid" uk-grid="">
+                                    <div b-uw9yh7yx80="" class="uk-text-bolder uk-text-small">@item.Price</div>
+                                    <div b-uw9yh7yx80="" class="uk-text-meta uk-text-xsmall">
+
+                                        <button class="basketitembutton uk-button uk-button-primary" onclick="SetBasketItemNewCount(@item.Id,@(item.Count-1))">-</button>  @item.Count <button class="basketitembutton uk-button uk-button-primary" onclick="SetBasketItemNewCount(@item.Id,@(item.Count+1))">+</button>× @item.Price
+                                    </div>
+                                </div>
+                            </div>
+                            <div >
+                                <a class="uk-icon-link uk-text-danger uk-invisible-hover uk-icon" href="#" onclick="RemoveBasketItem(@item.Id)" uk-icon="icon: close; ratio: .75" uk-tooltip="Remove" title="" aria-expanded="false">
+                                  
+                                </a>
+                            </div>
+                        </div>
+                    </arttcle>
+                </li>
+            }
+        </ul>
+    }
+    else
+    {
+
+        <div style="text-align: center;color: #abadad;">
+            <span uk-icon="icon: cart" class="uk-icon">
+            </span>
+
+            <div style="padding: 11px;">
+                Sepetiniz boş
+            </div>
+        </div>
+    }
+
+
+</div>
+
+
+@if (Model.Total > 0)
+{
+
+    <footer b-uw9yh7yx80="" class="uk-card-footer">
+        <div b-uw9yh7yx80="" class="uk-grid-small uk-grid" uk-grid="">
+            <div b-uw9yh7yx80="" class="uk-width-expand uk-text-muted uk-h4">Subtotal</div>
+            <div b-uw9yh7yx80="" class="uk-h4 uk-text-bolder">
+
+                @Model.Total
+
+            </div>
+        </div>
+        <div b-uw9yh7yx80="" class="uk-grid-small uk-child-width-1-1 uk-child-width-1-2@m uk-margin-small uk-grid" uk-grid="">
+            <div b-uw9yh7yx80="">
+                <a b-uw9yh7yx80="" class="uk-button uk-button-default uk-margin-small uk-width-1-1" href="cart.html">view cart</a>
+            </div>
+            <div b-uw9yh7yx80="">
+                <a b-uw9yh7yx80="" class="uk-button uk-button-primary uk-margin-small uk-width-1-1" href="checkout.html">checkout</a>
+            </div>
+        </div>
+    </footer>
+}

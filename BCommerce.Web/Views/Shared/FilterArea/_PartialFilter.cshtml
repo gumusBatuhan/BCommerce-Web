@@ -1,0 +1,70 @@
+﻿@model FilterAreaModel
+
+<header class="uk-card-header uk-flex uk-flex-middle">
+    <div class="uk-grid-small uk-flex-1 uk-grid uk-grid-stack" uk-grid="">
+        <div class="uk-width-expand">
+            <h3>Filters</h3>
+        </div>
+        <button class="uk-offcanvas-close uk-close uk-icon" type="button" uk-close=""><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg" data-svg="close-icon"><line fill="none" stroke="#000" stroke-width="1.1" x1="1" y1="1" x2="13" y2="13"></line><line fill="none" stroke="#000" stroke-width="1.1" x1="13" y1="1" x2="1" y2="13"></line></svg></button>
+    </div>
+</header>
+<div class="uk-margin-remove uk-flex-1 uk-overflow-auto uk-accordion" uk-accordion="multiple: true; targets: > .js-accordion-section" style="flex-basis: auto">
+
+    <form asp-action="All" asp-controller="Product" method="post">
+
+        @await Html.PartialAsync("/Views/Shared/FilterArea/_PartialPriceFilter.cshtml",Model)
+
+        @await Html.PartialAsync("/Views/Shared/FilterArea/_PartialBrandFilter.cshtml",Model)
+
+        @foreach (var item in Model.Spesifications)
+        {
+
+            <section class="uk-card-body js-accordion-section uk-open">
+                <h4 class="uk-accordion-title uk-margin-remove">
+                    @item.Name
+                </h4>
+                <div class="uk-accordion-content" aria-hidden="false">
+                    <ul class="uk-list tm-scrollbox">
+
+                        @foreach (var sitem in item.SpesificationItems)
+                        {
+                            <li>
+                                <input class="uk-checkbox" name="SelectedSpesifications" checked="@sitem.IsSelected" type="checkbox" value="@sitem.Id">
+
+                                <label for="brand-1">
+                                    <span>
+                                        @sitem.Item
+                                    </span>
+                                </label>
+                            </li>
+                        }
+
+
+                    </ul>
+                </div>
+            </section>
+        }
+
+
+
+        <button type="submit" class="uk-button uk-button-primary uk-margin-small uk-width-1-1" href="checkout.html">
+
+            Ara
+
+        </button>
+
+    </form>
+
+    <div class="uk-card-body">
+
+
+
+        <a class="uk-button uk-button-default uk-width-1-1" asp-action="All" asp-controller="Product">
+            <span class="uk-margin-xsmall-right uk-icon" uk-icon="icon: close; ratio: .75;">
+            </span>
+
+
+            Sıfırla
+        </a>
+    </div>
+</div>

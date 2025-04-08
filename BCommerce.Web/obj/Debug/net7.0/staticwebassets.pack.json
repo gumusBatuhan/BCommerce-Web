@@ -1,0 +1,697 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BCommerce.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BCommerce.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\Dovuz.json",
+      "PackagePath": "staticwebassets\\Dovuz.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\SeedProduct.json",
+      "PackagePath": "staticwebassets\\SeedProduct.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\404.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\about.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\account.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\account.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\article.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\article.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\blog.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\brands.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\brands.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\cart.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\cart.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\catalog.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\catalog.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\category.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\category.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\checkout.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\compare.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\compare.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\contacts.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\contacts.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\delivery.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\delivery.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\faq.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\faq.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\favorites.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\favorites.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\index.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\news.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\news.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\personal.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\personal.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\product.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\product.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\scripts\\script.js",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\scripts\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\scripts\\uikit-icons.js",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\scripts\\uikit-icons.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\scripts\\uikit.js",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\scripts\\uikit.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\settings.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\settings.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\styles\\style.css",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\styles\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\TasarimKayanagim\\dest\\subcategory.html",
+      "PackagePath": "staticwebassets\\TasarimKayanagim\\dest\\subcategory.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\about\\carol.svg",
+      "PackagePath": "staticwebassets\\images\\about\\carol.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\about\\george.svg",
+      "PackagePath": "staticwebassets\\images\\about\\george.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\about\\martin.svg",
+      "PackagePath": "staticwebassets\\images\\about\\martin.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\about\\nicole.svg",
+      "PackagePath": "staticwebassets\\images\\about\\nicole.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\about\\patricia.svg",
+      "PackagePath": "staticwebassets\\images\\about\\patricia.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\about\\thomas.svg",
+      "PackagePath": "staticwebassets\\images\\about\\thomas.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\articles\\macbook-photo.jpg",
+      "PackagePath": "staticwebassets\\images\\articles\\macbook-photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\articles\\macbook-promo-1.jpg",
+      "PackagePath": "staticwebassets\\images\\articles\\macbook-promo-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\articles\\macbook-promo-2.jpg",
+      "PackagePath": "staticwebassets\\images\\articles\\macbook-promo-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\articles\\macbook-promo-3.jpg",
+      "PackagePath": "staticwebassets\\images\\articles\\macbook-promo-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\articles\\macbook-promo-4.jpg",
+      "PackagePath": "staticwebassets\\images\\articles\\macbook-promo-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\articles\\macos.jpg",
+      "PackagePath": "staticwebassets\\images\\articles\\macos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\brands\\acer.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\acer.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\brands\\apple.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\apple.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\brands\\asus.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\asus.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\brands\\canon.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\canon.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\brands\\dell.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\dell.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\brands\\hp.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\hp.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\brands\\intel.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\intel.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\brands\\lenovo.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\lenovo.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\brands\\lg.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\lg.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\brands\\microsoft.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\microsoft.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\brands\\samsung.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\samsung.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\brands\\sony.svg",
+      "PackagePath": "staticwebassets\\images\\brands\\sony.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\catalog\\cameras.png",
+      "PackagePath": "staticwebassets\\images\\catalog\\cameras.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\catalog\\computers.svg",
+      "PackagePath": "staticwebassets\\images\\catalog\\computers.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\catalog\\consoles.png",
+      "PackagePath": "staticwebassets\\images\\catalog\\consoles.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\catalog\\games.svg",
+      "PackagePath": "staticwebassets\\images\\catalog\\games.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\catalog\\laptops.png",
+      "PackagePath": "staticwebassets\\images\\catalog\\laptops.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\catalog\\phones.svg",
+      "PackagePath": "staticwebassets\\images\\catalog\\phones.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\catalog\\photo.svg",
+      "PackagePath": "staticwebassets\\images\\catalog\\photo.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\catalog\\smartphones.png",
+      "PackagePath": "staticwebassets\\images\\catalog\\smartphones.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\catalog\\tablets.png",
+      "PackagePath": "staticwebassets\\images\\catalog\\tablets.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\catalog\\tv.svg",
+      "PackagePath": "staticwebassets\\images\\catalog\\tv.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\catalog\\watches.png",
+      "PackagePath": "staticwebassets\\images\\catalog\\watches.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\logo-inverse.svg",
+      "PackagePath": "staticwebassets\\images\\logo-inverse.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\mastercard-securecode.svg",
+      "PackagePath": "staticwebassets\\images\\mastercard-securecode.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\1\\1-add-1-large.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1\\1-add-1-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\1\\1-add-1-small.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1\\1-add-1-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\1\\1-add-2-large.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1\\1-add-2-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\1\\1-add-2-small.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1\\1-add-2-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\1\\1-add-3-large.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1\\1-add-3-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\1\\1-add-3-small.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1\\1-add-3-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\1\\1-add-4-large.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1\\1-add-4-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\1\\1-add-4-small.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1\\1-add-4-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\1\\1-large.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1\\1-large.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\1\\1-medium.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1\\1-medium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\1\\1-small.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1\\1-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\2\\2-medium.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2\\2-medium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\2\\2-small.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2\\2-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\3\\3-medium.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3\\3-medium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\3\\3-small.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3\\3-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\4\\4-medium.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\4\\4-medium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\4\\4-small.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\4\\4-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\5\\5-medium.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\5\\5-medium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\5\\5-small.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\5\\5-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\6\\6-medium.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6\\6-medium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\6\\6-small.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\6\\6-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\7\\7-medium.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7\\7-medium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\7\\7-small.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7\\7-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\8\\8-medium.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8\\8-medium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\products\\8\\8-small.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8\\8-small.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\promo\\ipad.jpg",
+      "PackagePath": "staticwebassets\\images\\promo\\ipad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\promo\\iphone.jpg",
+      "PackagePath": "staticwebassets\\images\\promo\\iphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\promo\\macbook-new.jpg",
+      "PackagePath": "staticwebassets\\images\\promo\\macbook-new.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\images\\verified-by-visa.svg",
+      "PackagePath": "staticwebassets\\images\\verified-by-visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\scripts\\Page.js",
+      "PackagePath": "staticwebassets\\scripts\\Page.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\scripts\\script.js",
+      "PackagePath": "staticwebassets\\scripts\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\scripts\\uikit-icons.js",
+      "PackagePath": "staticwebassets\\scripts\\uikit-icons.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\scripts\\uikit.js",
+      "PackagePath": "staticwebassets\\scripts\\uikit.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\styles\\style.css",
+      "PackagePath": "staticwebassets\\styles\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\uikitlast\\css\\uikit-rtl.css",
+      "PackagePath": "staticwebassets\\uikitlast\\css\\uikit-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\uikitlast\\css\\uikit-rtl.min.css",
+      "PackagePath": "staticwebassets\\uikitlast\\css\\uikit-rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\uikitlast\\css\\uikit.css",
+      "PackagePath": "staticwebassets\\uikitlast\\css\\uikit.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\uikitlast\\css\\uikit.min.css",
+      "PackagePath": "staticwebassets\\uikitlast\\css\\uikit.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\uikitlast\\js\\uikit-icons.js",
+      "PackagePath": "staticwebassets\\uikitlast\\js\\uikit-icons.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\uikitlast\\js\\uikit-icons.min.js",
+      "PackagePath": "staticwebassets\\uikitlast\\js\\uikit-icons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\uikitlast\\js\\uikit.js",
+      "PackagePath": "staticwebassets\\uikitlast\\js\\uikit.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Yazılım_Belge\\B05_20_2023Commerce.Web\\BCommerce.Web\\BCommerce.Web\\wwwroot\\uikitlast\\js\\uikit.min.js",
+      "PackagePath": "staticwebassets\\uikitlast\\js\\uikit.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BCommerce.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BCommerce.Web.props",
+      "PackagePath": "build\\BCommerce.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BCommerce.Web.props",
+      "PackagePath": "buildMultiTargeting\\BCommerce.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BCommerce.Web.props",
+      "PackagePath": "buildTransitive\\BCommerce.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
